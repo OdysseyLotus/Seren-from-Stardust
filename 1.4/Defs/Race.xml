@@ -1525,7 +1525,7 @@
 				</ateThoughtSpecific>
 			</thoughtSettings>
 			<raceRestriction>
-				<onlyHaveRaceRestrictedGenes>true</onlyHaveRaceRestrictedGenes>
+				<onlyHaveRaceRestrictedGenes>false</onlyHaveRaceRestrictedGenes>
 				<whiteGeneList>
 					<li>LotusEyes_LongLashes</li>
 					<li>LotusEyes_White</li>
@@ -1534,6 +1534,29 @@
 					<li>MyGeneTag</li>
 					<li>AnotherGeneTag</li>
 				</whiteGeneTags>
+				<blackGeneList>
+  					<li>Body_Fat</li>
+ 					<li>Body_Hulk</li>
+					<li>Jaw_Heavy</li>
+					<li>Ears_Pointed</li>
+					<li>Beard_BushyOnly</li>
+					<li>Beard_Always</li>
+					<li>Brow_Heavy</li>
+					<li>FacialRidges</li>
+					<li>PsychicAbility_Deaf</li>
+					<li>PsychicAbility_Dull</li>
+					<li>MoveSpeed_Slow</li>
+				</blackGeneList>
+				<blackGeneTags>
+  					<li>EyeColor</li>
+ 					<li></li>
+				</blackGeneTags>
+				<blackEndoCategories>
+  					<li>Headbone</li>
+  					<li>Melanin</li>
+					<li>HairColor</li>
+					<li>Ears</li>
+				</blackEndoCategories>
 			</raceRestriction>
 			<compatibility>
 				<isFlesh>true</isFlesh>
