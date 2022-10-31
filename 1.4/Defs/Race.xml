@@ -1531,8 +1531,8 @@
 					<li>LotusEyes_White</li>
 				</whiteGeneList>
 				<whiteGeneTags>
-					<li>MyGeneTag</li>
-					<li>AnotherGeneTag</li>
+					<li>SerenSkinColor</li>
+					<li>SerenHairColor</li>
 				</whiteGeneTags>
 				<blackGeneList>
   					<li>Body_Fat</li>
@@ -1549,12 +1549,11 @@
 				</blackGeneList>
 				<blackGeneTags>
   					<li>EyeColor</li>
- 					<li></li>
+ 					<li>HairColor</li>
+					<li>SkinColor</li>
 				</blackGeneTags>
 				<blackEndoCategories>
   					<li>Headbone</li>
-  					<li>Melanin</li>
-					<li>HairColor</li>
 					<li>Ears</li>
 				</blackEndoCategories>
 			</raceRestriction>
